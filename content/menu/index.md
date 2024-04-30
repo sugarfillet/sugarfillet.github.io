@@ -2,6 +2,12 @@
 headless: true
 ---
 
+- [Hare 教程]({{< relref "/docs/hare" >}})
+
+- [Harec 编译器]({{< relref "/docs/harec" >}})
+
+- [QBE 后端]({{< relref "/docs/qbe" >}})
+
 - [**Example Site**]({{< relref "/docs/example" >}})
 - [Table of Contents]({{< relref "/docs/example/table-of-contents" >}})
   - [With ToC]({{< relref "/docs/example/table-of-contents/with-toc" >}})
